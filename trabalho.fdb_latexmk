@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1601578600 "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf" "trabalho" 1601578600
+["pdflatex"] 1601587065 "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf" "trabalho" 1601587195
   "/etc/texmf/web2c/texmf.cnf" 1597167437 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.aux" 1601578600 1287 7c1c09da9eb09616b949060ee66eb1d2 ""
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" 1601578600 2376 4886f48f2a0a9be7ee9ef27e11d849c1 ""
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.aux" 1601587066 1287 ea12971b130f43049369e74eb74f8ddc ""
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" 1601587194 6731 6611778f89d46f069490ba10961a0264 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -69,11 +69,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1597167593 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1597167632 4126087 7d3f8ef3519b4b76df27afdaba427d05 ""
   "sbc-template.sty" 1601573523 6074 ecc54df5124d8db4ac67c42cc728f3a5 ""
-  "trabalho.aux" 1601578600 1287 7c1c09da9eb09616b949060ee66eb1d2 ""
-  "trabalho.tex" 1601578600 2376 4886f48f2a0a9be7ee9ef27e11d849c1 ""
+  "trabalho.aux" 1601587066 1287 ea12971b130f43049369e74eb74f8ddc ""
+  "trabalho.tex" 1601587194 6731 6611778f89d46f069490ba10961a0264 ""
   (generated)
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.log"
+  "trabalho.pdf"
   "trabalho.log"
   "trabalho.aux"
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.log"
   "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf"
-  "trabalho.pdf"
