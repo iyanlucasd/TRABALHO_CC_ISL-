@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1603451466 "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf" "trabalho" 1603451468
+["pdflatex"] 1603458858 "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf" "trabalho" 1603458875
   "/etc/texmf/web2c/texmf.cnf" 1597167437 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.aux" 1603451467 1763 6a14e0bc6dcd82d7d49c868f42b65fba ""
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" 1603451463 10907 e3712f6c5276c144b102a193f23db86d ""
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.aux" 1603458858 2353 30172437645c7f324625ebffff1c7aa3 ""
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.tex" 1603458875 22819 8a5ddb5c7ccf7b0de2ef0ed077eee198 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1480098688 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -79,11 +79,11 @@
   "brasil_isla.png" 1603318895 154993 11fba89c4eff61a568de409dbff0f8bf ""
   "mundo_isla.png" 1603318927 39550 a01767149530c1cb041e47e7940a2e3c ""
   "sbc-template.sty" 1601573523 6074 ecc54df5124d8db4ac67c42cc728f3a5 ""
-  "trabalho.aux" 1603451467 1763 6a14e0bc6dcd82d7d49c868f42b65fba ""
-  "trabalho.tex" 1603451463 10907 e3712f6c5276c144b102a193f23db86d ""
+  "trabalho.aux" 1603458858 2353 30172437645c7f324625ebffff1c7aa3 ""
+  "trabalho.tex" 1603458875 22819 8a5ddb5c7ccf7b0de2ef0ed077eee198 ""
   (generated)
-  "trabalho.pdf"
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf"
   "trabalho.log"
-  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.log"
   "trabalho.aux"
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.pdf"
+  "trabalho.pdf"
+  "/home/iyan/PUC/religiao-outros/trabalho/trabalho.log"
